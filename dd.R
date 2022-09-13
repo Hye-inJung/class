@@ -13,7 +13,7 @@ usethis::create_github_token()
 ## in case usethis version < 2.0.0: usethis::browse_github_token() (or even better: update usethis!)
 
 ## copy and paste your token and press enter
-credentials::set_github_pat()
+credentials::set_github_pat("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")
 
 # ----------------------------------------------------------------------------
 
